@@ -1,3 +1,6 @@
-body{
-    background-color: white;
+.Huge{
+    font-size: 5rem;
+    color: blue;
+    text-align: center;
+    border-style: solid;
 }
